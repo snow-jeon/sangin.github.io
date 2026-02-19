@@ -10,7 +10,7 @@ body {
 }
 
 .sidebar {
-    width: 280px;
+    width: 80px;
     background: white;
     padding: 40px 20px;
     box-shadow: 2px 0 5px rgba(0,0,0,0.05);
